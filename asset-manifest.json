@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/LIBT-Certificate/static/css/main.e6c13ad2.css",
+    "main.js": "/LIBT-Certificate/static/js/main.bfd3b233.js",
+    "static/js/787.5b1b5231.chunk.js": "/LIBT-Certificate/static/js/787.5b1b5231.chunk.js",
+    "static/media/LIBT-Logo-blue.png": "/LIBT-Certificate/static/media/LIBT-Logo-blue.e2bf000a97a9fea3162a.png",
+    "static/media/LIBT-Logo-white.png": "/LIBT-Certificate/static/media/LIBT-Logo-white.b0c6132c4339f7a77d8a.png",
+    "index.html": "/LIBT-Certificate/index.html",
+    "main.e6c13ad2.css.map": "/LIBT-Certificate/static/css/main.e6c13ad2.css.map",
+    "main.bfd3b233.js.map": "/LIBT-Certificate/static/js/main.bfd3b233.js.map",
+    "787.5b1b5231.chunk.js.map": "/LIBT-Certificate/static/js/787.5b1b5231.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bfd3b233.js"
+  ]
+}
